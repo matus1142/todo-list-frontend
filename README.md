@@ -14,6 +14,7 @@ backend :<br />
 &nbsp;frontend&nbsp;:&nbsp;cd todo-list-frontend<br />
 &nbsp;&nbsp;&nbsp;run "npm run build" in terminal<br />
 &nbsp;&nbsp;&nbsp;run "npm run start" in terminal<br />
+** Need to run 2 terminal for backend and frontend<br />
 <br />
 4.Open browser to run webpage :<br />
 &nbsp;http://localhost:3000/todo<br />
